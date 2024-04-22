@@ -132,6 +132,6 @@ Elaborated Design :
 ![image](https://github.com/Hariharan177/VLSI-LAB-EXP-3/assets/164841000/32aa7794-7517-45de-ab7e-2aeaa683deae)
 
 Result:
-Simulation and Synthesis Multiplier verified successfully using Vivado Software
+The Simulation and Synthesis of Multiplier verified successfully using Vivado Software
 
 
